@@ -82,15 +82,3 @@
 - Default user is System and password is system
 
 ---
-
-## 📜 License
-
-This project is licensed under a custom license.  
-You may fork and modify it for personal or internal use only.
-
-Redistribution or commercial use is strictly prohibited.  
-See [LICENSE](LICENSE) for full terms.
-
----
-
-**Made with ❤️ by Adrian Simo**
