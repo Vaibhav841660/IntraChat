@@ -29,29 +29,6 @@
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repo:
-    ```bash
-    git clone https://github.com/adriansimo2008/intrachat.git
-    cd intrachat
-    ```
-
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Edit config in config.json
-    
-4. Run the server:
-    ```bash
-    python intrachat.py
-    ```
-
-5. Open [http://localhost:5000](http://localhost:5000) in your browser.
-
----
 
 ## 📁 Project Structure
 
